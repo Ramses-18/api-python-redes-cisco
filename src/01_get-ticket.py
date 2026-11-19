@@ -1,14 +1,14 @@
 import json
 import requests
-api_url = "http://localhost:58000/api/v1/ticket"
+api_url = "http://localhost:58001/api/v1/ticket"
 
 headers = {
     "content-type": "application/json"
 }
 
 body_json = {
-    "username": "cisco",
-    "password": "cisco123!"
+    "username": "grupo9",
+    "password": "cisco"
 }
 
 resp = requests.post(api_url, json.dumps(body_json), headers=headers)
