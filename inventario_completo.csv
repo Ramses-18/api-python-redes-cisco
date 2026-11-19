@@ -1,0 +1,16 @@
+Categoria,Nombre,IP,MAC,Detalle_Extra
+Equipo de Red,M-SW3,192.168.99.33,0010.110E.72B1,3650
+Equipo de Red,M-SW1,10.0.0.18,0001.C7AE.ED93,3650
+Equipo de Red,Border,192.0.2.1,00D0.974A.9DA9,ISR4300
+Equipo de Red,M-SW2,10.0.0.22,00D0.FF51.C9C6,3650
+Equipo de Red,R0,192.168.99.1,0001.6342.53AD,ISR4300
+Equipo de Red,R1,192.168.99.17,00D0.D3CB.B033,ISR4300
+Equipo de Red,SW1,192.168.99.34,0001.C939.8D97,2960
+Equipo de Red,SW2,192.168.99.18,0060.7041.5206,2960
+Equipo de Red,SW0,192.168.99.2,00D0.9714.8D18,2960
+Equipo de Red,N/A,203.0.113.1,0090.0CC7.4B65,
+Host,Server0,192.168.50.2,0006.2A3D.98C8,Interfaz: FastEthernet0/1
+Host,Laptop1,192.168.20.10,0002.167D.E600,Interfaz: FastEthernet0/2
+Host,PC0,192.168.20.10,0001.96D5.2D91,Interfaz: FastEthernet0/1
+Host,Laptop0,192.168.10.10,00D0.BA17.A418,Interfaz: FastEthernet0/1
+Host,Server1,203.0.113.2,0040.0B86.8710,Interfaz: GigabitEthernet0/0/0
